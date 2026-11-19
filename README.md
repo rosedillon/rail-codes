@@ -27,8 +27,8 @@ both gaps filled.
 from rail_codes import crs_for_tiploc, find, station_crs
 
 crs_for_tiploc("WATRLMN")  # 'WAT'
-station_crs("SPX")         # 'STP'
-find("LDS")[0].stanox      # '17132'
+station_crs("SPX")  # 'STP'
+find("LDS")[0].stanox  # '17132'
 ```
 
 ## Install
