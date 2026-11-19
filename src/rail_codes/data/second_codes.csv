@@ -1,0 +1,30 @@
+code,station,platforms
+SPX,STP,London St Pancras International high-speed platforms
+SPL,STP,St Pancras low level (Thameslink)
+SDI,SFA,Stratford International
+EBF,EBD,Ebbsfleet International international platforms
+XMR,MRF,Moorfields (TIPLOC MORFNL)
+XLV,LVC,Liverpool Central (TIPLOC LVRPLCL)
+WJL,WIJ,Willesden Junction low level (TIPLOC WLSDNJL)
+WJH,WIJ,Willesden Junction high level (TIPLOC WLSDJHL)
+WHX,ZLW,Whitechapel Elizabeth line
+LSX,LST,Liverpool Street Elizabeth line
+PDX,PAD,Paddington Elizabeth line
+FDX,ZFD,Farringdon Elizabeth line
+ABX,ABW,Abbey Wood Elizabeth line
+RDZ,RDG,Reading platforms 4A and 4B (TIPLOC RDNG4AB)
+LVL,LIV,Liverpool Lime Street low level (TIPLOC LVRPLSL)
+ALE,LPY,Liverpool South Parkway high level (TIPLOC ALERTN)
+GQL,GLQ,Glasgow Queen Street low level (TIPLOC GLGQLL)
+GCL,GLC,Glasgow Central low level (TIPLOC GLGCLL)
+XHZ,HHY,"Highbury & Islington, East London line (TIPLOC HIGHBYE)"
+HII,HHY,"Highbury & Islington, North London line (TIPLOC HIGHBYA)"
+XIC,CNN,"Canonbury, East London line (TIPLOC CNNBELL)"
+XGQ,SGB,Smethwick Galton Bridge high level (TIPLOC GALTILL)
+XUP,UPM,Upminster platform 6 (TIPLOC UPMNSP6)
+TAH,TAM,Tamworth high level (TIPLOC TMWTHHL)
+LIF,LTV,Lichfield Trent Valley high level (TIPLOC LCHTTVH)
+XRO,RET,Retford low level (TIPLOC RTFDLL)
+WPH,WOP,Worcestershire Parkway high level (TIPLOC WORCPHL)
+BLU,BLY,Bletchley high level (TIPLOC BLTCHHL)
+XRI,RMD,"Richmond, North London line"
